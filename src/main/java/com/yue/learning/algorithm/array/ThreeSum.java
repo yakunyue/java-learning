@@ -27,6 +27,8 @@ import java.util.List;
  * <p>
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode.cn/problems/3sum
+ *
+ * 解法总结：排序，然后基准点加双指针
  */
 public class ThreeSum {
 	public static void main(String[] args) {
